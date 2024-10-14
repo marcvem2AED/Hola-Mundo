@@ -19,3 +19,9 @@ area <- function(r) {
 }
 ```
 
+```{r cuadrado}
+area <- function(l) {
+  return (l^2)
+}
+```
+
