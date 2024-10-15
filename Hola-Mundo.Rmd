@@ -31,3 +31,8 @@ area <- function(b,a) {
 }
 ```
 
+```{r rectangulo}
+area <- function(m,n) {
+  return (m*n)
+}
+```
