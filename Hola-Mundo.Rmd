@@ -37,3 +37,9 @@ area <- function(m,n) {
 }
 ```
 
+```{r trapecio}
+area <- function(b,B,H) {
+  return ((b+B)/2*H)
+}
+```
+
