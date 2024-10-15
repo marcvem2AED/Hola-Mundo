@@ -25,3 +25,9 @@ area <- function(l) {
 }
 ```
 
+```{r triangulo}
+area <- function(b,a) {
+  return (b*a/2)
+}
+```
+
